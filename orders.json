@@ -1,0 +1,47 @@
+{
+  "RL481528024459": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Andreas Tillmann, Traubinger Str. 14, 82346 Machtlfing, Deutschland",
+    "receiver": "Thomas Jocher, Am Königreich 41, 82467 Garmisch-Partenkirchen, Deutschland",
+    "price": "5.000,00 €",
+    "description": "Hersteller: Pöttinger<br>Typ: HIT 610 N<br>Baujahr: 2009<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Thomas Jocher<br>Anzlesau<br>82467 Garmisch-Partenkirchen<br>Deutschland<br>Telefon: +49 1522 3029619",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "25.11.2026",
+    "deliveryDate": "01.12.2026",
+    "pickup": {
+      "street": "Hegenheimer Str. 15",
+      "postal_code": "79576",
+      "city": "Weil am Rhein",
+      "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Anzlesau",
+      "postal_code": "82467",
+      "city": "Garmisch-Partenkirchen",
+      "country": "Deutschland",
+      "lat": "47.484842",
+      "lng": "11.143972"
+    }
+  }
+}
